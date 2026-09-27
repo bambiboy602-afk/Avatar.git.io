@@ -1,0 +1,6 @@
+{
+  "name": "Dark Gothic Avatar",
+  "description": "A dark, atmospheric animated avatar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
